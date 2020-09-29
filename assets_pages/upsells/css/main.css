@@ -32,9 +32,9 @@ button,input{outline: none;}
 .clear{clear: both;height: 0px;}
 .invis{display: none;}
 .left{float: left;}
-.right{float: right;}
+.yyxdxlqatsgdxqf{float: right;}
 .center{text-align: center;}
-.clearfix:after{content: '';display: block;clear: both;}
+.hkcguhisaccz:after{content: '';display: block;clear: both;}
 
 /*Site settings*/
 h1,h2,h3,h4,h5,h6{font-weight: 400;}
@@ -93,13 +93,13 @@ body{
     font-weight: 400;
     overflow-x:hidden;
 }
-.section, .wrap, .container{
+.ioojaucles, .axrtlpjddfdr, .container{
     position: relative;
 }
-.section{
+.ioojaucles{
     width: 100%;
 }
-.wrap{
+.axrtlpjddfdr{
     width: 960px;
     padding: 0px 20px;
     margin: 0 auto;
@@ -164,35 +164,35 @@ form input:focus{
 .block-1{
     background: url(../img/top-bg.jpg) center top no-repeat #fbfaff;
 }
-.block-1 .wrap{
+.block-1 .axrtlpjddfdr{
     height: 220px;
     padding: 0px;
 }
-.block-1 .wrap>img{
+.block-1 .axrtlpjddfdr>img{
     position: absolute;
     display: block;
     left: -22px;
     bottom: 0;
 }
-.top-title{
+.swdarflafsqkiqv{
     padding: 110px 0;
     text-align: center;
 }
-.top-title>h2{
+.swdarflafsqkiqv>h2{
     font-size: 40px;
     line-height: 1.2em;
     padding-bottom: 10px;
     font-weight: 700;
     color: #ee1562;   
 }
-.top-title>div{
+.swdarflafsqkiqv>div{
     font-size: 20px;
     line-height: 1.2em;
     padding-bottom: 30px;
     font-weight: 500;
     background: url(../img/phone-icon.png) center bottom no-repeat;
 }
-.top-title>p{
+.swdarflafsqkiqv>p{
     padding-top: 14px;
     font-style: italic;
     color: #8d8d8d;
@@ -200,7 +200,7 @@ form input:focus{
 .block-2{
     background: url(../img/title-bg.jpg) repeat;
 }
-.block-2 .wrap{
+.block-2 .axrtlpjddfdr{
     padding: 20px;
     text-align: center;
     text-transform: uppercase;
@@ -213,14 +213,14 @@ form input:focus{
     font-weight: 500;
     padding-bottom: 5px;
 }
-.block-2 .wrap>p{
+.block-2 .axrtlpjddfdr>p{
     font-size: 18px;
     line-height: 1.5em;
 }
 .block-3{
     background: #f1f4f6;
 }
-.block-3 .wrap{
+.block-3 .axrtlpjddfdr{
     padding: 60px 20px;
 }
 .block-3 .tov-item{
@@ -354,14 +354,14 @@ form input:focus{
     display: inline-block;
     font-weight: 500; 
 }
-.block-3 .old-cost{
+.block-3 .rfxxjruzazfgcup-cost{
     margin-right: 25px;
     font-size: 20px;
     line-height: 1em;
     text-decoration: line-through;
     color: #ee1562;
 }
-.block-3 .new-cost{
+.block-3 .peepptvkwd-cost{
     font-size: 32px;
     line-height: 1em;
 }
@@ -517,7 +517,7 @@ form input:focus{
 .block-4 .all-rew:hover{
     background: #D5DCE0;
 }
-.footer{
+.roszgakppajo{
     height: 130px;
     padding-top: 45px;
     background: url(../img/top-bg.jpg) center top no-repeat #fbfaff;
@@ -525,10 +525,10 @@ form input:focus{
     color: #8d8d8d;
     font-size: 14px;
 }
-.footer .right{
+.roszgakppajo .yyxdxlqatsgdxqf{
     text-align: right;
 }
-.footer .left{
+.roszgakppajo .left{
     color: #242424;
 }
 .foot-logo{
@@ -536,7 +536,7 @@ form input:focus{
     padding-left: 54px;
     background: url(../img/logo-mag.png) left top no-repeat;
 }
-.footer .left p{
+.roszgakppajo .left p{
     padding: 2px 0 0 0;
 }
 
@@ -622,10 +622,10 @@ form input:focus{
     z-index: 999;
 }
 
-.man .block-1 .top-title>h2{
+.man .block-1 .swdarflafsqkiqv>h2{
     color: #0aa150;
 }
-.man .block-1 .top-title>div{
+.man .block-1 .swdarflafsqkiqv>div{
     background: url(../img/phone-icon-2.png) center bottom no-repeat;
 }
 .man  .block-2{
@@ -637,7 +637,7 @@ form input:focus{
 .man  .block-3 .tov-info-rate{
     background: url(../img/rating-2.png) 0 0 no-repeat;
 }
-.man .block-3 .old-cost {
+.man .block-3 .rfxxjruzazfgcup-cost {
     color: #00b152;
 }
 .man .tov-button{
@@ -726,21 +726,21 @@ form input:focus{
 }
 
 @media screen and (max-width: 959px){
-    .wrap{
+    .axrtlpjddfdr{
         width: 640px;
         margin: 0 auto;
     }
-    .block-1 .wrap>img{
+    .block-1 .axrtlpjddfdr>img{
         left: -50px;
         bottom: 0;
     }
-    .block-1 .top-title{
+    .block-1 .swdarflafsqkiqv{
         padding: 40px 0 0 140px;
     }
-    .block-1 .top-title>h2{
+    .block-1 .swdarflafsqkiqv>h2{
         font-size: 32px;
     }
-    .block-1 .top-title>div{
+    .block-1 .swdarflafsqkiqv>div{
         font-size: 18px;
     }
     .block-3 .tov-item {
@@ -796,32 +796,32 @@ form input:focus{
     .mob-hid{
         display: none;
     }
-    .wrap{
+    .axrtlpjddfdr{
         width: 370px;
         margin: 0 auto;
     }
-    .block-1 .wrap>img{
+    .block-1 .axrtlpjddfdr>img{
         display: none;
     }
-    .block-1 .top-title{
+    .block-1 .swdarflafsqkiqv{
         padding: 30px 15px 0 15px;
     }
-    .top-title>h2{
+    .swdarflafsqkiqv>h2{
         font-size: 20px;
     }
-    .top-title>div{
+    .swdarflafsqkiqv>div{
         font-size: 16px;
     }
-    .top-title>p{
+    .swdarflafsqkiqv>p{
         line-height: 1.2em;
     }
     .block-2 h1{
         font-size: 18px;
     }
-    .block-2 .wrap>p{
+    .block-2 .axrtlpjddfdr>p{
         font-size: 16px;
     }
-    .block-3 .wrap{
+    .block-3 .axrtlpjddfdr{
         padding-bottom: 40px;
     }
     .block-3 .tov-item{
@@ -867,7 +867,7 @@ form input:focus{
     .block-4 .rew-text>p{
         text-align: justify;
     }
-    .footer .right{
+    .roszgakppajo .yyxdxlqatsgdxqf{
         display: none;
     }
 	.email_ss_holder{
@@ -917,11 +917,11 @@ form input:focus{
 		position: relative; 
 		top: -248px;
 	}
-	.top-title-c{
+	.xqcdpvkcgrjgqd{
 		position: relative;
 	}
 
-    .footer{
+    .roszgakppajo{
         padding-top: 30px;
     }
 }
@@ -929,15 +929,15 @@ form input:focus{
     opacity: 0.5;
 }
 
-html, body, .first-block{
+html, body, .jrkciyxxudxyfw{
     height: 100%;
 }
 
-.first-block{
+.jrkciyxxudxyfw{
     position: relative;
 }
 
-.wrapper{
+.gdjrkdtaxitfi{
     background: url(/assets_pages/upsells/img/top-bg-purple.png);
     height: 365px;
     position: absolute;
@@ -946,7 +946,7 @@ html, body, .first-block{
     width: 100%;
 }
 
-.footer{
+.roszgakppajo{
     margin-top: -135px;
 }
 
@@ -1002,7 +1002,7 @@ html, body, .first-block{
 .block-1 .iphone-act .iphone-content>a{
     display: block;
     margin: 18px 0 0;
-    color: #kvgpuwqqjsd77a7;
+    color: #dporllcqafaad77a7;
 }
 .block-1 .iphone-act .iphone-content>a:before{
     content: '';

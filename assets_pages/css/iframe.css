@@ -19,7 +19,7 @@ body {
     float: left;
 }
 
-.right {
+.yyxdxlqatsgdxqf {
     float: right;
 }
 
@@ -58,26 +58,26 @@ body {
     width: 40%;
 }
 
-.top .left .image {
+.top .left .wscgcqwtkod {
     border: #999999 solid 1px;
 }
 
-.top .left .image img {
+.top .left .wscgcqwtkod img {
     width: 100%;
 }
 
-.top .right {
+.top .yyxdxlqatsgdxqf {
     width: 56%;
 }
 
-.top .right h1 {
+.top .yyxdxlqatsgdxqf h1 {
     font-weight: normal;
     font-size: 32px;
     line-height: 36px;
     margin: 20px 0;
 }
 
-.top .right .price {
+.top .yyxdxlqatsgdxqf .price {
     clear: both;
     background: #eaeaea repeat;
     position: absolute;
@@ -85,33 +85,33 @@ body {
     width: 56%;
 }
 
-.top .right .price .wrap {
+.top .yyxdxlqatsgdxqf .price .axrtlpjddfdr {
     padding: 20px;
     overflow: hidden;
 }
 
-.top .right .price .wrap .right {
+.top .yyxdxlqatsgdxqf .price .axrtlpjddfdr .yyxdxlqatsgdxqf {
     text-align: right;
 }
 
 @media only screen and (max-width: 768px) {
-    .top .right h1 {
+    .top .yyxdxlqatsgdxqf h1 {
         font-size: 24px;
         margin: 10px 0;
     }
 
-    .top .right .price .wrap {
+    .top .yyxdxlqatsgdxqf .price .axrtlpjddfdr {
         padding: 10px;
     }
 }
 
 @media only screen and (max-width: 479px) {
-    .top > .left, .top > .right {
+    .top > .left, .top > .yyxdxlqatsgdxqf {
         width: 100%;
         float: left
     }
 
-    .top .right .price {
+    .top .yyxdxlqatsgdxqf .price {
         position: static;
         width: 100%;
     }
@@ -124,7 +124,7 @@ body {
     background: #eaeaea repeat;
 }
 
-.bottom .wrap {
+.bottom .axrtlpjddfdr {
     overflow: hidden;
     padding: 20px;
 }
@@ -177,7 +177,7 @@ body {
     float: left;
 }
 
-.bottom .form .price .right {
+.bottom .form .price .yyxdxlqatsgdxqf {
     text-align: right;
 }
 
