@@ -1,4 +1,4 @@
-#feqiuzgjdqcoqv-book a.odgzjkhytwy {
+#afuokjljgrutip-book a.close-m1 {
 	position: absolute;
 	display: block;
 	width: 28px;
@@ -14,11 +14,11 @@
 	cursor: pointer;
 	z-index: 999;
 }
-#feqiuzgjdqcoqv-book a.odgzjkhytwy:before {
+#afuokjljgrutip-book a.close-m1:before {
 	content: "\00D7";
 	font-size: 30px;
 }
-#feqiuzgjdqcoqv-book{
+#afuokjljgrutip-book{
 	width: 800px !important;
 	margin-left: -400px !important;
 	position: fixed;
@@ -36,7 +36,7 @@
 	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
 	font-family: "Tahoma", "Geneva", "Kalimati", sans-serif;
 }
-.gygpkhdjactv-book{
+.button-book{
 	width: 180px;
 	height: 35px;
 	border-radius: 20px;
@@ -58,7 +58,7 @@
 	margin-top: 10px;
 	line-height: 0px;
 }
-.gygpkhdjactv-book:hover{
+.button-book:hover{
 	background: linear-gradient(to top, #00c0e9, #008bd7);
 }
 .desc_book > div{

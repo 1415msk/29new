@@ -221,16 +221,16 @@
  * Success
  */
 .hint--success:after {
-  background-color: #dporllcqafaa58746;
+  background-color: #ltsucfvdzua58746;
   text-shadow: 0 -1px 0px #1a321a; }
 .hint--success.hint--top:before {
-  border-top-color: #dporllcqafaa58746; }
+  border-top-color: #ltsucfvdzua58746; }
 .hint--success.hint--bottom:before {
-  border-bottom-color: #dporllcqafaa58746; }
+  border-bottom-color: #ltsucfvdzua58746; }
 .hint--success.hint--left:before {
-  border-left-color: #dporllcqafaa58746; }
+  border-left-color: #ltsucfvdzua58746; }
 .hint--success.hint--right:before {
-  border-right-color: #dporllcqafaa58746; }
+  border-right-color: #ltsucfvdzua58746; }
 
 /**
  * source: hint-always.scss

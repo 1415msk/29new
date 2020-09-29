@@ -32,7 +32,7 @@ form .status_promo {
     left:0;
     z-index: 200;
 }
-.fixed-bottom .ioojaucles {
+.fixed-bottom .section {
     font-family: 'Roboto';
 /*    height: 38px;*/
     padding: 16px 20px 16px;
@@ -50,11 +50,11 @@ form .status_promo {
     text-transform: uppercase;
     width: 200px;
 }
-.fixed-bottom .sfhqluewaao {
+.fixed-bottom .field {
     float: left;
     width: 170px;
 }
-.fixed-bottom .sfhqluewaao input {
+.fixed-bottom .field input {
     background-color: #ccc;
     border: none;
     color: #1e9a08;
@@ -65,13 +65,13 @@ form .status_promo {
     text-transform: uppercase;
     width: 170px;
 }
-.fixed-bottom .sfhqluewaao input::-webkit-input-placeholder { color: #999; }
-.fixed-bottom .sfhqluewaao input:-moz-placeholder { color: #999; }
-.fixed-bottom .gygpkhdjactv {
+.fixed-bottom .field input::-webkit-input-placeholder { color: #999; }
+.fixed-bottom .field input:-moz-placeholder { color: #999; }
+.fixed-bottom .button {
     float: left;
     width: 130px;
 }
-.fixed-bottom .gygpkhdjactv button {
+.fixed-bottom .button button {
     background-color: #ff3636;
     border: none;
     color: #fff;
@@ -104,7 +104,7 @@ form .status_promo {
         left:50%;
         margin-left: -240px;
     }
-    .fixed-bottom .ioojaucles {
+    .fixed-bottom .section {
         width: 340px;
     }
     .fixed-bottom .sign {

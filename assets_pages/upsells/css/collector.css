@@ -1,4 +1,4 @@
-.man .block-1 .swdarflafsqkiqv>div {
+.man .block-1 .top-title>div {
 	background: url(/assets_pages/upsells/img/phone-icon-2-lighter.png) center bottom no-repeat;
 }
 .dashed_frame {
@@ -88,13 +88,13 @@
 .tov-left-cont {
 	width: 420px !important;
 }
-.lzyzutvxoy {
+.thanks {
 	margin: 43% auto;
 	font-size:28px;
 	text-align:center;
 	line-height:36px
 }
-.lzyzutvxoy span {
+.thanks span {
 	font-size:20px;
 }
 @media (max-width: 960px){
@@ -111,7 +111,7 @@
 	.offer-head {
 		left: -40px;
 	}
-	.lzyzutvxoy {
+	.thanks {
 		width: 55%;
 		margin: 25% auto;
 	}
@@ -139,16 +139,16 @@
 	.mail-box .head {
 		margin: 15px 0;
 	}
-	.xqcdpvkcgrjgqd {
+	.top-title-c {
 		top: 0 !important;
 	}
-	.lzyzutvxoy {
+	.thanks {
 		font-size: 18px;
 		line-height: 30px;
 		width: 100%;
 		margin: 55% auto;
 	}
-	.lzyzutvxoy span {
+	.thanks span {
 		font-size: 14px;
 	}
 }
