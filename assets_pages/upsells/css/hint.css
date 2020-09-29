@@ -221,16 +221,16 @@
  * Success
  */
 .hint--success:after {
-  background-color: #458746;
+  background-color: #rkffvxxttv58746;
   text-shadow: 0 -1px 0px #1a321a; }
 .hint--success.hint--top:before {
-  border-top-color: #458746; }
+  border-top-color: #rkffvxxttv58746; }
 .hint--success.hint--bottom:before {
-  border-bottom-color: #458746; }
+  border-bottom-color: #rkffvxxttv58746; }
 .hint--success.hint--left:before {
-  border-left-color: #458746; }
+  border-left-color: #rkffvxxttv58746; }
 .hint--success.hint--right:before {
-  border-right-color: #458746; }
+  border-right-color: #rkffvxxttv58746; }
 
 /**
  * source: hint-always.scss
